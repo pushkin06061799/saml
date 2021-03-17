@@ -1,0 +1,22 @@
+.field-label {
+  font-weight:bold;
+  margin-bottom:0px;
+}
+
+.field-input {
+  padding:5px;
+  width:500px;
+  margin-top:0px;
+}
+
+.field-desc {
+  margin-top:0px;
+  width:500px;
+  margin-bottom:5px;
+  font-size:10px;
+  color:grey;
+}
+
+form.aui {
+  margin-left: 20px;
+}
